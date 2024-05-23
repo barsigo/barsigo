@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello there!
+Welcome to my profile,
+I have been in field of system administration for over 5 years. I am chaning my career to other field of web developmen, data analysis and cyber security. I have worked on projects on Freecodecamp.
 <!--
 **barsigo/barsigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
